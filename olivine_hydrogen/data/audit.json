@@ -1,0 +1,100 @@
+{
+  "input": "/Users/sanderbertdacosta/Library/CloudStorage/OneDrive-Persoonlijk/Documenten/TU Delft/bachelor/year 3 TU delft/scriptie/olivine_hydrogen/data/raw/Olivine_data.csv",
+  "input_sha256": "81586a9f77f0a6c7797a7ba4fbd447f4828f7c157696b34e6a210bc535f6d16c",
+  "reference_sha256": "81586a9f77f0a6c7797a7ba4fbd447f4828f7c157696b34e6a210bc535f6d16c",
+  "reference_count_validation": true,
+  "rows": 56,
+  "sample_counts": {
+    "sample1": 5,
+    "sample2": 5,
+    "sample3": 6,
+    "sample4": 15,
+    "sample5": 10,
+    "sample6": 5,
+    "sample7": 10
+  },
+  "subgroup_counts": {
+    "sample1:all": 5,
+    "sample2:all": 5,
+    "sample3:all": 6,
+    "sample4:big grains": 5,
+    "sample4:small grains": 5,
+    "sample4:mixed grains": 5,
+    "sample5:weathered surface": 5,
+    "sample5:fresh surface": 5,
+    "sample6:all": 5,
+    "sample7:dark big grains": 5,
+    "sample7:light green grains": 5
+  },
+  "concentration_channels": [
+    "Ag",
+    "As",
+    "Au",
+    "Bal",
+    "Bi",
+    "Cd",
+    "Co",
+    "Cr",
+    "Cu",
+    "Fe",
+    "Hf",
+    "Hg",
+    "Mn",
+    "Mo",
+    "Nb",
+    "Ni",
+    "Pb",
+    "Pd",
+    "Rb",
+    "Re",
+    "Sb",
+    "Se",
+    "Sn",
+    "Sr",
+    "Ta",
+    "Th",
+    "Ti",
+    "U",
+    "V",
+    "W",
+    "Y",
+    "Zn",
+    "Zr"
+  ],
+  "units": "ppm (mass basis assumed from elemental export)",
+  "sum_reported_ppm_including_Bal": [
+    999999.948,
+    1000000.0536
+  ],
+  "Bal_status": "Balance channel of unspecified composition; never a measured Mg/mineral fraction",
+  "reported_sigma_metadata_values": [
+    1.5
+  ],
+  "uncertainty_convention": "2-Sigma headers divided by two ONLY for nominal instrument estimates; Sigma Value=1.5 unresolved. Independence/covariance/calibration not established.",
+  "capacity_stoichiometry": {
+    "magnetite_H2_per_Fe_mol": 0.3333333333333333,
+    "full_ferric_ceiling_H2_per_Fe_mol": 0.5,
+    "Fe_molar_mass_kg_mol": 0.055845,
+    "H2_molar_mass_kg_mol": 0.00201588,
+    "ferrous_fraction": 1.0,
+    "accessible_fraction": 1.0
+  },
+  "legacy_Mg_number_status": "Assumes all Bal is MgO+SiO2 in pure-forsterite proportions; counterfactual diagnostic, not measured Mg#",
+  "legacy_pure_forsterite_SiO2_mass_fraction": 0.4270593227386417,
+  "corrected_notebook_issues": [
+    "Concentration and 2-Sigma channels were pooled in original cells1/5; now separate.",
+    "Original cell1 ratio plot selected only the previous loop's final sample; now all groups exported.",
+    "Original subgroup labels depended on current row order; now stable original read-ID mapping with explicit unverified provenance.",
+    "<LOD remains censored with no invented concentration or numerical limit.",
+    "SD, SEM and nominal instrument uncertainty are reported separately."
+  ],
+  "missing_for_kinetic_calibration": [
+    "H2 versus reaction time",
+    "reaction T/P history",
+    "rock/fluid mass and volumes",
+    "Fe valence and mineral phases",
+    "reactive surface area",
+    "blanks/standards/independent experiments"
+  ],
+  "inference_limit": "Theoretical capacity only. No measured H2 yield, fitted reaction rate or reservoir source flux is obtained from this dataset."
+}

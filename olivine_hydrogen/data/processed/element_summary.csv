@@ -1,0 +1,364 @@
+sample,subgroup,n_readings,reading_numbers,element,n_detected,n_below_detection,n_missing,mean_basis,mean_ppm,sample_sd_ppm,sem_ppm,min_ppm,max_ppm,mean_reported_2sigma_ppm,nominal_instrument_1sigma_mean_ppm
+sample1,all,5,4458 4459 4460 4461 4462,Ag,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,As,3,2,0,detected readings only; no imputation,1.7841666666666667,0.027812647003356814,0.016057639234264096,1.7539,1.8086,1.3775666666666666,0.3983140110376346
+sample1,all,5,4458 4459 4460 4461 4462,Au,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,Bal,5,0,0,detected readings only; no imputation,935954.825,1749.0168356554632,782.1841076634387,934283.8125,938113.125,493.71646,110.43179147038457
+sample1,all,5,4458 4459 4460 4461 4462,Bi,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,Cd,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,Co,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,Cr,5,0,0,detected readings only; no imputation,2210.10642,1033.0999812189657,462.01635711187265,1349.3251,3478.2642,73.3082,16.619830524900067
+sample1,all,5,4458 4459 4460 4461 4462,Cu,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,Fe,5,0,0,detected readings only; no imputation,58452.348439999994,1274.9639330699558,570.1812046409826,56946.7031,60300.2773,171.53726,38.36095418295666
+sample1,all,5,4458 4459 4460 4461 4462,Hf,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,Hg,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,Mn,5,0,0,detected readings only; no imputation,828.5516799999999,38.963902388903506,17.425186882050937,785.0126,889.7454,45.068220000000004,10.085266836921074
+sample1,all,5,4458 4459 4460 4461 4462,Mo,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,Nb,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,Ni,5,0,0,detected readings only; no imputation,2490.6740800000002,52.24526108014005,23.364791055483444,2427.9351,2563.5601,31.24058,6.986677898679744
+sample1,all,5,4458 4459 4460 4461 4462,Pb,5,0,0,detected readings only; no imputation,12.155339999999999,4.334529986399909,1.9384607400202871,7.6366,17.8994,1.37862,0.30893106917239643
+sample1,all,5,4458 4459 4460 4461 4462,Pd,2,3,0,detected readings only; no imputation,17.2731,2.2190425007196217,1.5690999999999986,15.704,18.8422,6.9449000000000005,2.455465253775748
+sample1,all,5,4458 4459 4460 4461 4462,Rb,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,Re,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,Sb,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,Se,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,Sn,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,Sr,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,Ta,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,Th,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,Ti,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,U,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,V,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,W,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,Y,0,5,0,detected readings only; no imputation,,,,,,,
+sample1,all,5,4458 4459 4460 4461 4462,Zn,5,0,0,detected readings only; no imputation,43.36486000000001,6.999078176302934,3.1300829164097235,36.1299,52.581,3.28238,0.7347960419735534
+sample1,all,5,4458 4459 4460 4461 4462,Zr,0,5,0,detected readings only; no imputation,,,,,,,
+sample2,all,5,4463 4464 4465 4466 4467,Ag,3,2,0,detected readings only; no imputation,16.643766666666668,3.9233284648794498,2.2651347453174715,12.4292,20.19,14.641566666666668,4.304219553111678
+sample2,all,5,4463 4464 4465 4466 4467,As,3,2,0,detected readings only; no imputation,2.3172,0.4598015658955503,0.26546655784360745,1.9114,2.8166,1.3884,0.4008122717959397
+sample2,all,5,4463 4464 4465 4466 4467,Au,0,5,0,detected readings only; no imputation,,,,,,,
+sample2,all,5,4463 4464 4465 4466 4467,Bal,5,0,0,detected readings only; no imputation,942991.0625,8352.777569116792,3735.4756890961185,936423.8125,955512.4375,475.23654000000005,106.83785779955576
+sample2,all,5,4463 4464 4465 4466 4467,Bi,0,5,0,detected readings only; no imputation,,,,,,,
+sample2,all,5,4463 4464 4465 4466 4467,Cd,3,2,0,detected readings only; no imputation,21.34863333333333,3.4046780528169367,1.9656917902978694,19.1167,25.2674,8.8688,2.5727141922491117
+sample2,all,5,4463 4464 4465 4466 4467,Co,0,5,0,detected readings only; no imputation,,,,,,,
+sample2,all,5,4463 4464 4465 4466 4467,Cr,5,0,0,detected readings only; no imputation,1368.56588,443.02159438246014,198.12528010790396,1031.5261,2137.876,63.92208000000001,14.364701131085187
+sample2,all,5,4463 4464 4465 4466 4467,Cu,0,5,0,detected readings only; no imputation,,,,,,,
+sample2,all,5,4463 4464 4465 4466 4467,Fe,5,0,0,detected readings only; no imputation,52533.442200000005,7656.558853750102,3424.1172141426196,40883.0391,58030.8008,169.18800000000002,37.881705669819034
+sample2,all,5,4463 4464 4465 4466 4467,Hf,0,5,0,detected readings only; no imputation,,,,,,,
+sample2,all,5,4463 4464 4465 4466 4467,Hg,0,5,0,detected readings only; no imputation,,,,,,,
+sample2,all,5,4463 4464 4465 4466 4467,Mn,5,0,0,detected readings only; no imputation,777.6269599999999,136.12060767616342,60.87498638049621,587.1374,909.2587,43.63638,9.774795556383776
+sample2,all,5,4463 4464 4465 4466 4467,Mo,0,5,0,detected readings only; no imputation,,,,,,,
+sample2,all,5,4463 4464 4465 4466 4467,Nb,0,5,0,detected readings only; no imputation,,,,,,,
+sample2,all,5,4463 4464 4465 4466 4467,Ni,5,0,0,detected readings only; no imputation,2200.8397600000003,395.3365265469952,176.79986946954628,1595.4385,2512.5864,30.01544,6.739018923804859
+sample2,all,5,4463 4464 4465 4466 4467,Pb,5,0,0,detected readings only; no imputation,15.900699999999997,9.37845245656233,4.194171443324652,7.8377,26.3278,1.4806599999999999,0.33287320303683204
+sample2,all,5,4463 4464 4465 4466 4467,Pd,5,0,0,detected readings only; no imputation,38.16316,11.218525344402446,5.017077055477621,23.467,52.4375,7.17272,1.6046042205478581
+sample2,all,5,4463 4464 4465 4466 4467,Rb,0,5,0,detected readings only; no imputation,,,,,,,
+sample2,all,5,4463 4464 4465 4466 4467,Re,0,5,0,detected readings only; no imputation,,,,,,,
+sample2,all,5,4463 4464 4465 4466 4467,Sb,1,4,0,detected readings only; no imputation,18.6382,,,18.6382,18.6382,14.7305,7.36525
+sample2,all,5,4463 4464 4465 4466 4467,Se,0,5,0,detected readings only; no imputation,,,,,,,
+sample2,all,5,4463 4464 4465 4466 4467,Sn,1,4,0,detected readings only; no imputation,26.7769,,,26.7769,26.7769,9.5697,4.78485
+sample2,all,5,4463 4464 4465 4466 4467,Sr,0,5,0,detected readings only; no imputation,,,,,,,
+sample2,all,5,4463 4464 4465 4466 4467,Ta,0,5,0,detected readings only; no imputation,,,,,,,
+sample2,all,5,4463 4464 4465 4466 4467,Th,0,5,0,detected readings only; no imputation,,,,,,,
+sample2,all,5,4463 4464 4465 4466 4467,Ti,0,5,0,detected readings only; no imputation,,,,,,,
+sample2,all,5,4463 4464 4465 4466 4467,U,0,5,0,detected readings only; no imputation,,,,,,,
+sample2,all,5,4463 4464 4465 4466 4467,V,0,5,0,detected readings only; no imputation,,,,,,,
+sample2,all,5,4463 4464 4465 4466 4467,W,0,5,0,detected readings only; no imputation,,,,,,,
+sample2,all,5,4463 4464 4465 4466 4467,Y,0,5,0,detected readings only; no imputation,,,,,,,
+sample2,all,5,4463 4464 4465 4466 4467,Zn,5,0,0,detected readings only; no imputation,41.1207,4.108757445384187,1.8374921901874843,36.4527,47.4935,3.2945,0.7368495104836537
+sample2,all,5,4463 4464 4465 4466 4467,Zr,0,5,0,detected readings only; no imputation,,,,,,,
+sample3,all,6,4468 4469 4470 4471 4472 4473,Ag,6,0,0,detected readings only; no imputation,60.09723333333334,7.168024745679013,2.9263338484261237,50.4908,69.7497,52.84878333333333,10.851394881755603
+sample3,all,6,4468 4469 4470 4471 4472 4473,As,3,3,0,detected readings only; no imputation,3.0023,0.22267465055546867,0.1285612694399057,2.7903,3.2343,1.6972666666666667,0.4901457056608553
+sample3,all,6,4468 4469 4470 4471 4472 4473,Au,4,2,0,detected readings only; no imputation,6.76605,1.6386398719669926,0.8193199359834963,5.2372,8.9859,4.29695,1.0744447992160882
+sample3,all,6,4468 4469 4470 4471 4472 4473,Bal,6,0,0,detected readings only; no imputation,921413.7604166666,4761.323724064406,1943.8022706943277,915573.9375,928707.125,681.6488666666668,139.1754384852647
+sample3,all,6,4468 4469 4470 4471 4472 4473,Bi,0,6,0,detected readings only; no imputation,,,,,,,
+sample3,all,6,4468 4469 4470 4471 4472 4473,Cd,6,0,0,detected readings only; no imputation,87.53336666666667,18.211615380154136,7.434860845533321,68.6154,112.9536,35.012933333333336,7.274660071754785
+sample3,all,6,4468 4469 4470 4471 4472 4473,Co,1,5,0,detected readings only; no imputation,104.1581,,,104.1581,104.1581,77.7132,38.8566
+sample3,all,6,4468 4469 4470 4471 4472 4473,Cr,6,0,0,detected readings only; no imputation,405.7299333333333,38.100874006860614,15.554616678479881,344.8084,450.0532,48.55288333333334,9.919924282119602
+sample3,all,6,4468 4469 4470 4471 4472 4473,Cu,0,6,0,detected readings only; no imputation,,,,,,,
+sample3,all,6,4468 4469 4470 4471 4472 4473,Fe,6,0,0,detected readings only; no imputation,73052.26561666666,4670.577463105691,1906.755264791945,65852.3359,78707.5547,207.47439999999997,42.351262312920234
+sample3,all,6,4468 4469 4470 4471 4472 4473,Hf,0,6,0,detected readings only; no imputation,,,,,,,
+sample3,all,6,4468 4469 4470 4471 4472 4473,Hg,0,6,0,detected readings only; no imputation,,,,,,,
+sample3,all,6,4468 4469 4470 4471 4472 4473,Mn,6,0,0,detected readings only; no imputation,1022.0303333333335,74.58574437254526,30.4495026330663,949.7837,1153.1304,50.12485,10.232333402012005
+sample3,all,6,4468 4469 4470 4471 4472 4473,Mo,1,5,0,detected readings only; no imputation,1.9171,,,1.9171,1.9171,1.1337,0.56685
+sample3,all,6,4468 4469 4470 4471 4472 4473,Nb,1,5,0,detected readings only; no imputation,1.5359,,,1.5359,1.5359,0.9154,0.4577
+sample3,all,6,4468 4469 4470 4471 4472 4473,Ni,6,0,0,detected readings only; no imputation,3188.1742,247.25715769740629,100.94231193491991,2830.6699,3525.6055,40.699983333333336,8.308992149677527
+sample3,all,6,4468 4469 4470 4471 4472 4473,Pb,6,0,0,detected readings only; no imputation,13.67295,1.9291206522662083,0.787560208386212,12.0661,17.0867,1.6872666666666667,0.34466689192449124
+sample3,all,6,4468 4469 4470 4471 4472 4473,Pd,6,0,0,detected readings only; no imputation,111.86464999999998,7.566133640307975,3.088861124076856,102.2791,123.108,8.6068,1.7571055569300453
+sample3,all,6,4468 4469 4470 4471 4472 4473,Rb,0,6,0,detected readings only; no imputation,,,,,,,
+sample3,all,6,4468 4469 4470 4471 4472 4473,Re,0,6,0,detected readings only; no imputation,,,,,,,
+sample3,all,6,4468 4469 4470 4471 4472 4473,Sb,6,0,0,detected readings only; no imputation,145.79113333333333,31.630952400056927,12.913282243067066,110.7004,196.5756,118.59261666666667,24.677516454022307
+sample3,all,6,4468 4469 4470 4471 4472 4473,Se,0,6,0,detected readings only; no imputation,,,,,,,
+sample3,all,6,4468 4469 4470 4471 4472 4473,Sn,6,0,0,detected readings only; no imputation,221.2047,30.90769986925589,12.618015633793881,186.7659,273.1526,11.203633333333334,2.2873588956176314
+sample3,all,6,4468 4469 4470 4471 4472 4473,Sr,0,6,0,detected readings only; no imputation,,,,,,,
+sample3,all,6,4468 4469 4470 4471 4472 4473,Ta,0,6,0,detected readings only; no imputation,,,,,,,
+sample3,all,6,4468 4469 4470 4471 4472 4473,Th,0,6,0,detected readings only; no imputation,,,,,,,
+sample3,all,6,4468 4469 4470 4471 4472 4473,Ti,4,2,0,detected readings only; no imputation,249.769825,69.93734469391752,34.96867234695876,156.1193,321.1197,132.49375,33.141678106487944
+sample3,all,6,4468 4469 4470 4471 4472 4473,U,0,6,0,detected readings only; no imputation,,,,,,,
+sample3,all,6,4468 4469 4470 4471 4472 4473,V,1,5,0,detected readings only; no imputation,77.6668,,,77.6668,77.6668,69.391,34.6955
+sample3,all,6,4468 4469 4470 4471 4472 4473,W,0,6,0,detected readings only; no imputation,,,,,,,
+sample3,all,6,4468 4469 4470 4471 4472 4473,Y,0,6,0,detected readings only; no imputation,,,,,,,
+sample3,all,6,4468 4469 4470 4471 4472 4473,Zn,6,0,0,detected readings only; no imputation,74.46356666666667,13.367550508102322,5.457279642622117,56.6313,88.8039,4.617483333333333,0.9433989464445981
+sample3,all,6,4468 4469 4470 4471 4472 4473,Zr,0,6,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,Ag,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,As,5,0,0,detected readings only; no imputation,3.63414,0.7274194374636962,0.32531186206469637,2.69,4.6756,1.48422,0.3321368388179788
+sample4,big grains,5,4474 4475 4476 4477 4478,Au,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,Bal,5,0,0,detected readings only; no imputation,950411.4125,2100.7734060377916,939.4944282448538,948050.625,952811.5625,400.64566,89.69132921362744
+sample4,big grains,5,4474 4475 4476 4477 4478,Bi,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,Cd,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,Co,1,4,0,detected readings only; no imputation,78.4918,,,78.4918,78.4918,55.4223,27.71115
+sample4,big grains,5,4474 4475 4476 4477 4478,Cr,5,0,0,detected readings only; no imputation,1546.58636,1573.5697998058438,703.7218079413204,245.4954,4264.9551,64.31514,15.194397321963777
+sample4,big grains,5,4474 4475 4476 4477 4478,Cu,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,Fe,5,0,0,detected readings only; no imputation,45083.9578,2123.5233253348742,949.668501451036,42736.6523,47478.918,159.44099999999997,35.65782686225565
+sample4,big grains,5,4474 4475 4476 4477 4478,Hf,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,Hg,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,Mn,5,0,0,detected readings only; no imputation,624.3385599999999,22.027073354011417,9.850806672988764,596.2758,648.0668,41.379560000000005,9.29553960511169
+sample4,big grains,5,4474 4475 4476 4477 4478,Mo,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,Nb,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,Ni,5,0,0,detected readings only; no imputation,2263.7002,115.17347781831111,51.50714512136156,2145.8931,2418.3325,30.0374,6.718650775252423
+sample4,big grains,5,4474 4475 4476 4477 4478,Pb,5,0,0,detected readings only; no imputation,14.163660000000002,2.382581899536718,1.0655230178649353,11.755,16.7134,1.4248,0.3189476029068098
+sample4,big grains,5,4474 4475 4476 4477 4478,Pd,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,Rb,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,Re,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,Sb,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,Se,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,Sn,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,Sr,1,4,0,detected readings only; no imputation,0.7231,,,0.7231,0.7231,0.2991,0.14955
+sample4,big grains,5,4474 4475 4476 4477 4478,Ta,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,Th,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,Ti,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,U,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,V,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,W,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,Y,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,big grains,5,4474 4475 4476 4477 4478,Zn,5,0,0,detected readings only; no imputation,36.36586,7.647744971427851,3.4201755261389724,26.2286,46.1808,3.1275800000000005,0.700679426485465
+sample4,big grains,5,4474 4475 4476 4477 4478,Zr,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,Ag,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,As,2,3,0,detected readings only; no imputation,1.86075,0.45587174183096724,0.32235,1.5384,2.1831,1.30105,0.4599920739806285
+sample4,small grains,5,4479 4480 4481 4482 4483,Au,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,Bal,5,0,0,detected readings only; no imputation,941956.375,3817.1416588016973,1707.0776457653806,937713.0625,947284.5625,407.08364,91.16200675850767
+sample4,small grains,5,4479 4480 4481 4482 4483,Bi,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,Cd,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,Co,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,Cr,5,0,0,detected readings only; no imputation,216.48012000000003,60.07816720986917,26.867773168973265,132.1605,298.401,36.02218,8.062551679927392
+sample4,small grains,5,4479 4480 4481 4482 4483,Cu,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,Fe,5,0,0,detected readings only; no imputation,54187.08438,3589.3249178816222,1605.1949019434314,49245.2578,58250.0469,159.43464,35.660499940407455
+sample4,small grains,5,4479 4480 4481 4482 4483,Hf,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,Hg,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,Mn,5,0,0,detected readings only; no imputation,718.431,40.25985690250277,18.00475535968206,654.6385,755.2921,36.80344,8.23099700502922
+sample4,small grains,5,4479 4480 4481 4482 4483,Mo,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,Nb,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,Ni,5,0,0,detected readings only; no imputation,2877.53616,216.17076978962248,96.67450719961076,2581.1208,3118.0229,31.53784,7.0565715269102185
+sample4,small grains,5,4479 4480 4481 4482 4483,Pb,5,0,0,detected readings only; no imputation,11.868739999999999,0.8980686014999079,0.40162848828239267,10.8829,12.6881,1.2841,0.28719220828567055
+sample4,small grains,5,4479 4480 4481 4482 4483,Pd,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,Rb,1,4,0,detected readings only; no imputation,0.8836,,,0.8836,0.8836,0.5631,0.28155
+sample4,small grains,5,4479 4480 4481 4482 4483,Re,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,Sb,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,Se,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,Sn,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,Sr,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,Ta,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,Th,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,Ti,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,U,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,V,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,W,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,Y,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,small grains,5,4479 4480 4481 4482 4483,Zn,5,0,0,detected readings only; no imputation,31.30674,4.929010381202296,2.204320454834097,24.6558,37.6582,2.81176,0.6295954599582179
+sample4,small grains,5,4479 4480 4481 4482 4483,Zr,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Ag,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,As,5,0,0,detected readings only; no imputation,2.7970400000000004,0.3930171281254801,0.1757626029620636,2.1864,3.1674,1.5848400000000002,0.35643456678610735
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Au,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Bal,5,0,0,detected readings only; no imputation,942264.475,6078.617624734621,2718.440443626984,935605.9375,951255.25,415.99588000000006,93.20817181790338
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Bi,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Cd,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Co,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Cr,5,0,0,detected readings only; no imputation,632.77742,686.7564669914852,307.1268288361103,243.0274,1852.3877,45.49946,10.46191134217357
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Cu,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Fe,5,0,0,detected readings only; no imputation,53540.45704000001,5588.153446139368,2499.098194853467,45523.0625,59878.4922,162.80509999999998,36.434548293323196
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Hf,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Hg,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Mn,5,0,0,detected readings only; no imputation,714.52262,85.00897872705568,38.017171026306,612.5858,805.9379,38.68832,8.660665103593372
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Mo,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Nb,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Ni,5,0,0,detected readings only; no imputation,2785.93162,356.3137052720425,159.34833326062244,2281.0615,3198.707,31.8456,7.133249527347267
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Pb,5,0,0,detected readings only; no imputation,24.23538,11.704352490718998,5.234345560373331,13.4134,43.5111,1.5695199999999998,0.35364562290519025
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Pd,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Rb,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Re,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Sb,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Se,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Sn,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Sr,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Ta,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Th,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Ti,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,U,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,V,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,W,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Y,0,5,0,detected readings only; no imputation,,,,,,,
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Zn,5,0,0,detected readings only; no imputation,34.8021,3.4204144295684396,1.5296558351472394,29.2486,37.7316,2.97276,0.6648486522510216
+sample4,mixed grains,5,4484 4485 4486 4487 4488,Zr,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Ag,5,0,0,detected readings only; no imputation,23.818219999999997,9.491118061482537,4.244557033590196,14.2647,37.6291,20.95026,4.9731662505188785
+sample5,weathered surface,5,4489 4490 4491 4492 4493,As,5,0,0,detected readings only; no imputation,5.643880000000001,1.4761917158689113,0.6601730049009881,4.1315,8.0525,1.74726,0.39086575892497927
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Au,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Bal,5,0,0,detected readings only; no imputation,932117.2125,8157.706220170556,3648.2371297548457,919637.3125,938009.75,563.7823000000001,126.3964006254652
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Bi,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Cd,5,0,0,detected readings only; no imputation,38.6837,18.14165282878051,8.113193789870914,22.3852,69.6035,15.3958,3.743265606071789
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Co,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Cr,5,0,0,detected readings only; no imputation,688.77374,187.1201931955715,83.68269438963829,455.6648,969.289,53.131359999999994,11.915101605743864
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Cu,5,0,0,detected readings only; no imputation,20.84712,4.99056522971096,2.2318486199561116,15.2022,25.9514,7.5937600000000005,1.6994428778867505
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Fe,5,0,0,detected readings only; no imputation,61590.511719999995,7384.957544750297,3302.6534162023218,56083.0781,72803.3516,184.93810000000002,41.37260982318979
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Hf,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Hg,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Mn,5,0,0,detected readings only; no imputation,1192.62392,189.852192785011,84.90448174893594,1032.3467,1504.8906,50.2933,11.252585960973594
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Mo,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Nb,5,0,0,detected readings only; no imputation,8.65348,3.522496590771948,1.5753083654954667,5.4164,14.0571,0.93284,0.2088037743911733
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Ni,5,0,0,detected readings only; no imputation,2164.88872,314.57860774453013,140.68383023680224,1906.5278,2636.6099,31.4216,7.038159641625076
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Pb,5,0,0,detected readings only; no imputation,18.08762,2.765899468888918,1.236947846273237,14.7988,21.9131,1.6470799999999997,0.3685559317118638
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Pd,5,0,0,detected readings only; no imputation,48.669540000000005,22.269301559501145,9.959134419697326,22.7168,77.5027,7.612,1.7024012477674
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Rb,5,0,0,detected readings only; no imputation,4.24684,1.6690828508495315,0.7464365429157389,1.7686,5.9899,0.8258000000000001,0.18493066430421973
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Re,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Sb,5,0,0,detected readings only; no imputation,51.5851,30.47201238932211,13.627498222748004,25.0119,102.9744,41.97076,10.613958574396266
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Se,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Sn,5,0,0,detected readings only; no imputation,84.20591999999999,49.22482564841647,22.014011266086875,36.4496,163.0266,9.91512,2.2172958281654704
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Sr,5,0,0,detected readings only; no imputation,6.97336,1.813906809348264,0.8112037861104938,5.1577,9.2518,0.42463999999999996,0.09509106582639612
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Ta,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Th,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Ti,5,0,0,detected readings only; no imputation,1727.87546,454.64541213709396,203.32360943939,1205.5688,2246.6506,160.01626000000002,35.812177356115896
+sample5,weathered surface,5,4489 4490 4491 4492 4493,U,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,weathered surface,5,4489 4490 4491 4492 4493,V,5,0,0,detected readings only; no imputation,132.5596,19.406555829409808,8.678875608741029,109.2901,162.259,70.32256,15.726779195696745
+sample5,weathered surface,5,4489 4490 4491 4492 4493,W,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Y,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Zn,5,0,0,detected readings only; no imputation,66.85988,11.24369124673921,5.028331589145647,52.1338,79.7858,4.08644,0.9150517236746785
+sample5,weathered surface,5,4489 4490 4491 4492 4493,Zr,5,0,0,detected readings only; no imputation,7.28798,2.6284211243634457,1.1754656615146186,4.0049,10.5939,0.8051999999999999,0.1802737867799975
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Ag,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,fresh surface,5,4494 4495 4496 4497 4498,As,5,0,0,detected readings only; no imputation,5.99618,1.215844398761618,0.5437421451386678,4.1513,7.1058,1.5514800000000002,0.3469905085157229
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Au,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Bal,5,0,0,detected readings only; no imputation,935817.475,1807.4125360278501,808.2994587887121,933091.1875,937538.3125,446.23126,99.81309323352474
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Bi,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Cd,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Co,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Cr,5,0,0,detected readings only; no imputation,1362.02342,413.74139711476414,185.03077781086958,1023.3567,2052.582,59.07149999999999,13.283572288744471
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Cu,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Fe,5,0,0,detected readings only; no imputation,59187.04059999999,1964.6813898216358,878.6322283539881,57288.9453,62028.2656,165.95076,37.11185292357686
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Hf,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Hg,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Mn,5,0,0,detected readings only; no imputation,830.1873800000001,46.32582165382496,20.717537266296866,778.8816,880.4234,41.586,9.301557654586675
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Mo,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Nb,5,0,0,detected readings only; no imputation,6.952279999999999,1.8500087829521241,0.8273490795305207,4.6676,9.8172,0.8208399999999999,0.18359993736382374
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Ni,5,0,0,detected readings only; no imputation,2677.2127,99.69835320889212,44.58645900397341,2571.0227,2815.7305,31.088240000000003,6.952733318861007
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Pb,5,0,0,detected readings only; no imputation,17.77532,2.302528900361513,1.0297222282732366,15.7125,20.5204,1.4439600000000001,0.32291593642928185
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Pd,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Rb,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Re,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Sb,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Se,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Sn,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Sr,5,0,0,detected readings only; no imputation,24.76078,6.142396782364356,2.7469633500285364,18.0968,32.7588,0.55504,0.12450469790333214
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Ta,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Th,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Ti,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,fresh surface,5,4494 4495 4496 4497 4498,U,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,fresh surface,5,4494 4495 4496 4497 4498,V,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,fresh surface,5,4494 4495 4496 4497 4498,W,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Y,0,5,0,detected readings only; no imputation,,,,,,,
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Zn,5,0,0,detected readings only; no imputation,68.64684000000001,6.169748561165195,2.759195437369379,60.9186,76.1614,3.67002,0.8209155825661977
+sample5,fresh surface,5,4494 4495 4496 4497 4498,Zr,5,0,0,detected readings only; no imputation,1.9497600000000002,0.734564920888549,0.32850741939871014,1.3042,3.0466,0.69316,0.15506930773044678
+sample6,all,5,4499 4500 4501 4502 4503,Ag,0,5,0,detected readings only; no imputation,,,,,,,
+sample6,all,5,4499 4500 4501 4502 4503,As,4,1,0,detected readings only; no imputation,2.569125,0.9775479097381023,0.4887739548690512,1.6834,3.9452,1.322025,0.3305615324243733
+sample6,all,5,4499 4500 4501 4502 4503,Au,0,5,0,detected readings only; no imputation,,,,,,,
+sample6,all,5,4499 4500 4501 4502 4503,Bal,5,0,0,detected readings only; no imputation,926253.0875,6264.9584459353655,2801.7745922645836,916962.25,933744.9375,515.298,115.47242404601454
+sample6,all,5,4499 4500 4501 4502 4503,Bi,0,5,0,detected readings only; no imputation,,,,,,,
+sample6,all,5,4499 4500 4501 4502 4503,Cd,0,5,0,detected readings only; no imputation,,,,,,,
+sample6,all,5,4499 4500 4501 4502 4503,Co,0,5,0,detected readings only; no imputation,,,,,,,
+sample6,all,5,4499 4500 4501 4502 4503,Cr,5,0,0,detected readings only; no imputation,2700.7598800000005,1383.9023366406145,618.8999397898424,1244.5096,4922.5146,75.45884,17.1391156673616
+sample6,all,5,4499 4500 4501 4502 4503,Cu,3,2,0,detected readings only; no imputation,13.060833333333335,2.005241971267641,1.1577269919017084,10.9076,14.8748,7.195799999999999,2.0776681429482964
+sample6,all,5,4499 4500 4501 4502 4503,Fe,5,0,0,detected readings only; no imputation,65929.2125,5587.20843612207,2498.675573525848,59112.957,74679.2422,173.00702,38.69219433849546
+sample6,all,5,4499 4500 4501 4502 4503,Hf,0,5,0,detected readings only; no imputation,,,,,,,
+sample6,all,5,4499 4500 4501 4502 4503,Hg,0,5,0,detected readings only; no imputation,,,,,,,
+sample6,all,5,4499 4500 4501 4502 4503,Mn,5,0,0,detected readings only; no imputation,1088.6904,122.72542945752929,54.88448056697812,987.2252,1297.6768,47.670759999999994,10.672828631239238
+sample6,all,5,4499 4500 4501 4502 4503,Mo,0,5,0,detected readings only; no imputation,,,,,,,
+sample6,all,5,4499 4500 4501 4502 4503,Nb,4,1,0,detected readings only; no imputation,2.9137750000000002,1.686828569386943,0.8434142846934715,1.1834,5.1889,0.8005749999999999,0.20021084237935266
+sample6,all,5,4499 4500 4501 4502 4503,Ni,5,0,0,detected readings only; no imputation,2495.37626,275.21905477623267,123.08170303657887,2054.9333,2788.1616,30.382479999999997,6.8003959419286755
+sample6,all,5,4499 4500 4501 4502 4503,Pb,5,0,0,detected readings only; no imputation,9.896899999999999,1.9606401148604506,0.8768249152481926,7.7367,12.6782,1.29494,0.28960762679874297
+sample6,all,5,4499 4500 4501 4502 4503,Pd,0,5,0,detected readings only; no imputation,,,,,,,
+sample6,all,5,4499 4500 4501 4502 4503,Rb,4,1,0,detected readings only; no imputation,2.1232249999999997,0.45188646343227995,0.22594323171613998,1.5802,2.631,0.705825,0.1764615693819762
+sample6,all,5,4499 4500 4501 4502 4503,Re,0,5,0,detected readings only; no imputation,,,,,,,
+sample6,all,5,4499 4500 4501 4502 4503,Sb,0,5,0,detected readings only; no imputation,,,,,,,
+sample6,all,5,4499 4500 4501 4502 4503,Se,0,5,0,detected readings only; no imputation,,,,,,,
+sample6,all,5,4499 4500 4501 4502 4503,Sn,0,5,0,detected readings only; no imputation,,,,,,,
+sample6,all,5,4499 4500 4501 4502 4503,Sr,5,0,0,detected readings only; no imputation,19.45036,4.411222454490365,1.9727586544227855,14.1542,26.0246,0.51646,0.11576681001046889
+sample6,all,5,4499 4500 4501 4502 4503,Ta,0,5,0,detected readings only; no imputation,,,,,,,
+sample6,all,5,4499 4500 4501 4502 4503,Th,0,5,0,detected readings only; no imputation,,,,,,,
+sample6,all,5,4499 4500 4501 4502 4503,Ti,5,0,0,detected readings only; no imputation,1417.5232799999999,475.21395592264753,212.5221418599257,738.9769,2040.7511,135.36654000000001,30.31694551025713
+sample6,all,5,4499 4500 4501 4502 4503,U,0,5,0,detected readings only; no imputation,,,,,,,
+sample6,all,5,4499 4500 4501 4502 4503,V,0,5,0,detected readings only; no imputation,,,,,,,
+sample6,all,5,4499 4500 4501 4502 4503,W,0,5,0,detected readings only; no imputation,,,,,,,
+sample6,all,5,4499 4500 4501 4502 4503,Y,0,5,0,detected readings only; no imputation,,,,,,,
+sample6,all,5,4499 4500 4501 4502 4503,Zn,5,0,0,detected readings only; no imputation,68.69818000000001,15.279110530295933,6.833025956294913,51.1759,89.0353,3.7088799999999997,0.8312011009376732
+sample6,all,5,4499 4500 4501 4502 4503,Zr,5,0,0,detected readings only; no imputation,3.3745800000000004,0.7154066445036696,0.3199395777330463,2.794,4.5221,0.71344,0.1595330335698535
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Ag,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,dark big grains,5,4504 4505 4506 4507 4508,As,4,1,0,detected readings only; no imputation,2.441775,0.6267229604591384,0.3133614802295692,1.8254,3.1998,1.3988,0.34998447778080105
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Au,1,4,0,detected readings only; no imputation,4.3417,,,4.3417,4.3417,3.5619,1.78095
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Bal,5,0,0,detected readings only; no imputation,928069.9,7359.100201557423,3291.0896607829604,921519.5,939800.125,526.9661,118.49599651235185
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Bi,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Cd,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Co,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Cr,5,0,0,detected readings only; no imputation,4658.14166,1201.133380658521,537.1631778393167,2587.3806,5698.356,99.01490000000001,22.278614606449388
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Cu,2,3,0,detected readings only; no imputation,12.355,0.9090564778934258,0.6428000000000001,11.7122,12.9978,7.603899999999999,2.6883878091711395
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Fe,5,0,0,detected readings only; no imputation,63780.36174,5953.793467624921,2662.6173835207032,54733.2344,69407.2266,175.60952,39.29934373489969
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Hf,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Hg,3,2,0,detected readings only; no imputation,4.8396,0.7668139865704066,0.4427202615647943,4.1036,5.6339,2.0967,0.6054083435995906
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Mn,5,0,0,detected readings only; no imputation,926.5525600000001,100.6553249616631,45.01442978232202,776.4927,1036.3035,50.621739999999996,11.346174573727483
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Mo,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Nb,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Ni,5,0,0,detected readings only; no imputation,2463.60092,302.38382756110985,135.2301587446432,2036.8579,2765.4243,30.98842,6.945459375196142
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Pb,5,0,0,detected readings only; no imputation,11.50628,1.8757605902673187,0.838865637870571,9.042,13.5681,1.36432,0.3054429655434873
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Pd,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Rb,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Re,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Sb,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Se,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Sn,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Sr,5,0,0,detected readings only; no imputation,10.026320000000002,1.7098202133557787,0.7646548452733429,7.3633,11.5592,0.43304,0.09703007884156335
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Ta,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Th,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Ti,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,dark big grains,5,4504 4505 4506 4507 4508,U,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,dark big grains,5,4504 4505 4506 4507 4508,V,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,dark big grains,5,4504 4505 4506 4507 4508,W,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Y,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Zn,5,0,0,detected readings only; no imputation,68.47474000000001,13.753202826360123,6.150619285616695,45.5228,79.8435,3.8111599999999997,0.8552571128029278
+sample7,dark big grains,5,4504 4505 4506 4507 4508,Zr,2,3,0,detected readings only; no imputation,1.9283000000000001,0.27845865043126233,0.19689999999999994,1.7314,2.1252,0.7079,0.25029004424866763
+sample7,light green grains,5,4509 4510 4511 4512 4513,Ag,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,light green grains,5,4509 4510 4511 4512 4513,As,4,1,0,detected readings only; no imputation,3.6325499999999997,1.0148471756870587,0.5074235878435294,2.5174,4.9369,1.501375,0.37630789483978405
+sample7,light green grains,5,4509 4510 4511 4512 4513,Au,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,light green grains,5,4509 4510 4511 4512 4513,Bal,5,0,0,detected readings only; no imputation,932005.2625,4720.767655025438,2111.191476523831,927526.0625,939386.875,476.48297999999994,106.5486037668148
+sample7,light green grains,5,4509 4510 4511 4512 4513,Bi,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,light green grains,5,4509 4510 4511 4512 4513,Cd,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,light green grains,5,4509 4510 4511 4512 4513,Co,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,light green grains,5,4509 4510 4511 4512 4513,Cr,5,0,0,detected readings only; no imputation,1550.20224,328.5259381793665,146.92126602819138,1175.9073,1918.3223,62.718920000000004,14.038493209671756
+sample7,light green grains,5,4509 4510 4511 4512 4513,Cu,4,1,0,detected readings only; no imputation,18.906525,5.917099992042837,2.9585499960214183,11.1578,25.5694,7.240725,1.8104572088719053
+sample7,light green grains,5,4509 4510 4511 4512 4513,Fe,5,0,0,detected readings only; no imputation,62682.70546000001,4215.8001706912255,1885.3631522441592,56327.5234,66552.8984,171.62142,38.37874726701877
+sample7,light green grains,5,4509 4510 4511 4512 4513,Hf,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,light green grains,5,4509 4510 4511 4512 4513,Hg,1,4,0,detected readings only; no imputation,8.8903,,,8.8903,8.8903,2.198,1.099
+sample7,light green grains,5,4509 4510 4511 4512 4513,Mn,5,0,0,detected readings only; no imputation,900.08128,75.20387402366318,33.6321948976483,785.7707,979.8336,43.699400000000004,9.771714383617645
+sample7,light green grains,5,4509 4510 4511 4512 4513,Mo,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,light green grains,5,4509 4510 4511 4512 4513,Nb,1,4,0,detected readings only; no imputation,3.1119,,,3.1119,3.1119,0.8022,0.4011
+sample7,light green grains,5,4509 4510 4511 4512 4513,Ni,5,0,0,detected readings only; no imputation,2505.93308,219.5375621840532,98.18018253162603,2222.678,2755.6768,30.8211,6.892458417538694
+sample7,light green grains,5,4509 4510 4511 4512 4513,Pb,5,0,0,detected readings only; no imputation,34.58186,40.33680413992907,18.039167210395266,12.9633,106.6248,1.7251400000000001,0.40530756728686923
+sample7,light green grains,5,4509 4510 4511 4512 4513,Pd,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,light green grains,5,4509 4510 4511 4512 4513,Rb,1,4,0,detected readings only; no imputation,3.6745,,,3.6745,3.6745,0.7681,0.38405
+sample7,light green grains,5,4509 4510 4511 4512 4513,Re,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,light green grains,5,4509 4510 4511 4512 4513,Sb,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,light green grains,5,4509 4510 4511 4512 4513,Se,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,light green grains,5,4509 4510 4511 4512 4513,Sn,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,light green grains,5,4509 4510 4511 4512 4513,Sr,5,0,0,detected readings only; no imputation,20.579320000000003,17.90188100750868,8.005964571580366,10.1814,52.5018,0.51788,0.1194685849920388
+sample7,light green grains,5,4509 4510 4511 4512 4513,Ta,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,light green grains,5,4509 4510 4511 4512 4513,Th,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,light green grains,5,4509 4510 4511 4512 4513,Ti,3,2,0,detected readings only; no imputation,361.9572666666666,262.0325504211325,151.28456352208505,196.1159,664.0435,113.0398,32.715292602092916
+sample7,light green grains,5,4509 4510 4511 4512 4513,U,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,light green grains,5,4509 4510 4511 4512 4513,V,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,light green grains,5,4509 4510 4511 4512 4513,W,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,light green grains,5,4509 4510 4511 4512 4513,Y,0,5,0,detected readings only; no imputation,,,,,,,
+sample7,light green grains,5,4509 4510 4511 4512 4513,Zn,5,0,0,detected readings only; no imputation,58.91124,6.669697451758962,2.9827793782980323,47.3849,63.8241,3.5676,0.7978830951962825
+sample7,light green grains,5,4509 4510 4511 4512 4513,Zr,4,1,0,detected readings only; no imputation,4.232625,4.884645745172656,2.442322872586328,1.435,11.5358,0.7213750000000001,0.18182512073761975

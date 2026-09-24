@@ -1,0 +1,53 @@
+{
+  "passed": true,
+  "tests_run": 8,
+  "failures": 0,
+  "errors": 0,
+  "refinement_coarse_max_step_days": 1.0,
+  "refinement_fine_max_step_days": 0.5,
+  "metrics": {
+    "stationary": {
+      "max_abs_balance_errors": {
+        "h2_balance_error_kg": 0.0,
+        "water_balance_error_kg": 6.184563972055912e-11,
+        "salt_balance_error_kg": 0.0,
+        "hydrogen_recovery_balance_error_kg": 2.220446049250313e-16
+      },
+      "half_step_relative_endpoint_changes": {
+        "generated_h2_kg": 1.623318138872915e-08,
+        "retained_h2_kg": 1.623318138872915e-08,
+        "total_deliverable_h2_kg": 1.76458362591417e-08,
+        "flow_pump_kwh": 0.0
+      }
+    },
+    "recirculating": {
+      "max_abs_balance_errors": {
+        "h2_balance_error_kg": 0.0,
+        "water_balance_error_kg": 0.0,
+        "salt_balance_error_kg": 0.0,
+        "hydrogen_recovery_balance_error_kg": 0.0
+      },
+      "half_step_relative_endpoint_changes": {
+        "generated_h2_kg": 1.7032689069339945e-08,
+        "retained_h2_kg": 1.7032689069339945e-08,
+        "total_deliverable_h2_kg": 1.7910489138263067e-08,
+        "flow_pump_kwh": 4.663776027763911e-09
+      }
+    },
+    "once_through": {
+      "max_abs_balance_errors": {
+        "h2_balance_error_kg": 3.666864358820021e-15,
+        "water_balance_error_kg": 3.637978807091713e-12,
+        "salt_balance_error_kg": 1.0885819792747498e-10,
+        "hydrogen_recovery_balance_error_kg": 3.552713678800501e-15
+      },
+      "half_step_relative_endpoint_changes": {
+        "generated_h2_kg": 4.217666304948227e-10,
+        "retained_h2_kg": 7.75916169070722e-10,
+        "total_deliverable_h2_kg": 0.0,
+        "flow_pump_kwh": 2.262367541938039e-11
+      }
+    }
+  },
+  "scope": "Numerical and accounting checks; not validation of reaction or fracture hypotheses."
+}
